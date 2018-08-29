@@ -1,0 +1,6 @@
+C:\Users\SEXTON\source\repos\ChooseYourOwn\GameFileHandler\bin\Debug\GameFileHandler.dll
+C:\Users\SEXTON\source\repos\ChooseYourOwn\GameFileHandler\bin\Debug\GameFileHandler.pdb
+C:\Users\SEXTON\source\repos\ChooseYourOwn\GameFileHandler\obj\Debug\GameFileHandler.csprojAssemblyReference.cache
+C:\Users\SEXTON\source\repos\ChooseYourOwn\GameFileHandler\obj\Debug\GameFileHandler.csproj.CoreCompileInputs.cache
+C:\Users\SEXTON\source\repos\ChooseYourOwn\GameFileHandler\obj\Debug\GameFileHandler.dll
+C:\Users\SEXTON\source\repos\ChooseYourOwn\GameFileHandler\obj\Debug\GameFileHandler.pdb

@@ -1,0 +1,10 @@
+C:\Users\SEXTON\source\repos\ChooseYourOwn\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\SEXTON\source\repos\ChooseYourOwn\TestApp\bin\Debug\TestApp.exe
+C:\Users\SEXTON\source\repos\ChooseYourOwn\TestApp\bin\Debug\TestApp.pdb
+C:\Users\SEXTON\source\repos\ChooseYourOwn\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\SEXTON\source\repos\ChooseYourOwn\TestApp\obj\Debug\TestApp.exe
+C:\Users\SEXTON\source\repos\ChooseYourOwn\TestApp\obj\Debug\TestApp.pdb
+C:\Users\SEXTON\source\repos\ChooseYourOwn\TestApp\bin\Debug\GameFileHandler.dll
+C:\Users\SEXTON\source\repos\ChooseYourOwn\TestApp\bin\Debug\GameFileHandler.pdb
+C:\Users\SEXTON\source\repos\ChooseYourOwn\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\SEXTON\source\repos\ChooseYourOwn\TestApp\obj\Debug\TestApp.csproj.CopyComplete

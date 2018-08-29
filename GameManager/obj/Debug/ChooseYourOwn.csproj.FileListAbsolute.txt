@@ -1,0 +1,15 @@
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\bin\Debug\ChooseYourOwn.exe.config
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\bin\Debug\ChooseYourOwn.exe
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\bin\Debug\ChooseYourOwn.pdb
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\obj\Debug\ChooseYourOwn.csprojAssemblyReference.cache
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\obj\Debug\MainWindow.g.cs
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\obj\Debug\App.g.cs
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\obj\Debug\ChooseYourOwn_MarkupCompile.cache
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\obj\Debug\ChooseYourOwn_MarkupCompile.lref
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\obj\Debug\MainWindow.baml
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\obj\Debug\ChooseYourOwn.g.resources
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\obj\Debug\ChooseYourOwn.Properties.Resources.resources
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\obj\Debug\ChooseYourOwn.csproj.GenerateResource.cache
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\obj\Debug\ChooseYourOwn.csproj.CoreCompileInputs.cache
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\obj\Debug\ChooseYourOwn.exe
+C:\Users\SEXTON\source\repos\ChooseYourOwn\ChooseYourOwn\obj\Debug\ChooseYourOwn.pdb
